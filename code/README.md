@@ -1,1 +1,1 @@
-All the code for the project. Tested and uploaded via Arduino IDE
+All the code for the project. Tested and uploaded via Arduino IDE. Before using the SoundVisualizer.ino files. Make sure to use the Sound_Sensor_Exxample.ino code to calibrate your sensor. It should be as close as possible to 500 for the best experience.
