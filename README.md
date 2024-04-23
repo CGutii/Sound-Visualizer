@@ -1,5 +1,7 @@
 # Music Visualizer for SHPE 2024
 
+![Music Visualizer](https://github.com/CGutii/Sound-Visualizer/blob/main/images/Full_setup-removebg-preview.png#center)
+
 ## Overview
 This project was developed in Spring 2024 with the Society of Hispanic Professional Engineers (SHPE) at the University of Central Florida (UCF). It features an innovative audio visualizing system that uses an ELEGOO UNO R3 board, a KY-038 sound sensor, and an 8x8 MAX7219 LED matrix to display audio equalizer levels dynamically, creating an engaging LED matrix music visualizer effect.
 
