@@ -19,7 +19,7 @@ The KY-038 sound sensor picks up audio signals which are then processed by the E
 
 ## Project Reflection
 For a detailed reflection on the project and insights into the development process, visit my LinkedIn post:
-[Music Visualizer Project Reflection]([https://www.linkedin.com](https://www.linkedin.com/posts/cristiandgutierrez_thank-you-to-everyone-who-joined-the-music-activity-7164645924504330240-AWpM?utm_source=share&utm_medium=member_desktop))
+[Music Visualizer Project Reflection](https://www.linkedin.com/posts/cristiandgutierrez_thank-you-to-everyone-who-joined-the-music-activity-7164645924504330240-AWpM?utm_source=share&utm_medium=member_desktop)
 
 ## Getting Started
 To replicate this project or get more details, all resources including code, images, schematics, and budget information are available in this repository.
